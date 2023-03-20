@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm a fledgling developer who's trying to learn and grow.
-- 🔭 Currently working on the Odin Project, an open source online curriculum for learning web development.
+- 🌱 I'm a fledgling developer who's continuously learning and growing.
+- 🔭 Currently looking for an entry-level position or internship opportunities in front-end web development.
 
 
 #### Languages and Tools
