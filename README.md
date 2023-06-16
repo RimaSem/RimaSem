@@ -5,7 +5,7 @@
 
 
 #### What I use:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,js,html,css,sass,vite,git,github,styledcomponents,firebase,redux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,js,html,css,sass,vite,git,styledcomponents,firebase,redux,nextjs&perline=6)](https://skillicons.dev)
 
 #### What I'm familiar with:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
