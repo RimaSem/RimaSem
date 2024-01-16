@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior front-end developer who's continuously learning and growing 🌱
+I'm a front-end dev working in a travel tech startup ⚡ ✈️
 
 
 #### What I use:
