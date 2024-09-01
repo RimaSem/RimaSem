@@ -1,7 +1,7 @@
 Front-end developer working in a travel tech startup ⚡ ✈️
 
 
-#### I make beautiful UI with:
+#### I make beautiful user interfaces with:
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,redux,js,html,css,sass,svg,git,yarn&perline=6)](https://skillicons.dev)
 
 #### Work and collaboration tools:
